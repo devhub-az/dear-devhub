@@ -15,7 +15,7 @@ Bu repo, həm DevHub-a həm də istifadəçilərə layihənin inkişafında nəz
 
 #### Bu reponun istifadə qaydaları:
 
-* Yararsız şərhlər yazmayın: "+1", "Согласен" və sayrı. Bunun əvəzinə [standart GitHub reaksiyasından istifadə](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) edin.
+* Yararsız şərhlər yazmayın: "+1", "Razıyam" və sayrı. Bunun əvəzinə [standart GitHub reaksiyasından istifadə](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) edin.
 
 
 * Digər istifadəçiləri, DevHub rəhbərliyini və ya ümumiyyətlə hər kəsi təhqir etməkdən çəkinin. GitHub belə bir yer deyil.
