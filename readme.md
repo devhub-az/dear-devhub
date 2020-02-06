@@ -2,7 +2,10 @@
     <img src="logo.png" width="" height="200" alt="DevHub logo">
 </p>
 
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/DevHub-Azerbaycan/dear-devhub.svg)](http://isitmaintained.com/project/DevHub-Azerbaycan/dear-devhub "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/DevHub-Azerbaycan/dear-devhub.svg)](http://isitmaintained.com/project/DevHub-Azerbaycan/dear-devhub "Percentage of issues still open")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/DevHub-Azerbaycan/dear-devhub.svg)](http://isitmaintained.com/project/DevHub-Azerbaycan/dear-devhub "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/DevHub-Azerbaycan/dear-devhub.svg)](http://isitmaintained.com/project/DevHub-Azerbaycan/dear-devhub "Percentage of issues still open")
+[![Join DevHub on Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/devhub_az_chat)
+[![Join DevHub on Telegram](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/devhub_az)
 
 Bu repo, həm DevHub-a həm də istifadəçilərə layihənin inkişafında nəzarət etmək və DevHub-ın irəliləyişində iştirak etmək üçün yaradılmışdır.
 
